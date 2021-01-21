@@ -1,0 +1,8 @@
+<div class="gallery-main">
+	<div class="item" *ngFor="let product of localProducts">
+		<a [routerLink]="['/gallery', product.name]"><img [src]="product.image" width="300" height="450" alt="" class="bgitem"></a>
+		<p class="desc" ><a [routerLink]="['/gallery', product.name]">{{product.name}}</a></p>
+		<p class="price" [ngClass]="{through: product.discPrice}">{{product.price}} ₽</p>
+		<p *ngIf="product.discPrice" class="isSale">{{product.discPrice}} ₽</p>
+	</div>
+</div>

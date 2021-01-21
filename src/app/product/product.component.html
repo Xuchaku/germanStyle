@@ -1,0 +1,21 @@
+<div class="wrapper-product">
+	<div class="product">
+		<div class="image">
+			<img [src]="product.image" width="300" height="450" alt="">
+		</div>
+		<div class="information">
+			<div class="parproduct textdec">{{product.name}}</div>
+			<div class="price">
+				<div *ngIf="product.discPrice" class="parproduct textdec discount">{{product.price}} ₽</div>
+				<div *ngIf="product.discPrice" class="parproduct textdec">{{product.discPrice}} ₽</div>
+				<div *ngIf="!product.discPrice" class="parproduct textdec">{{product.price}} ₽</div>
+			</div>
+			<div class="sizing textdec">Размеры EU</div>
+			<div class="list-size">
+				<div *ngFor="let item of product.sizes" class="item">{{item}}</div>
+			</div>
+			<div class="description textdesc">Состав: {{product.desc}}</div>
+			<button class="buy">Купить</button>
+		</div>
+	</div>
+</div>

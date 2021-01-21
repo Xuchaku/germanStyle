@@ -1,0 +1,1156 @@
+{
+  "products": [
+
+    {
+      "brand": "Franko Vello",
+      "name": "Плащ Franko Vello",
+      "desc": "100 % полиэстер, Италия",
+      "sizes": [44, 46],
+      "price": "17600",
+      "sezon": "spring-summer",
+      "image": "v(12).mp4",
+      "discPrice": "12600"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Серебиристо-серая куртка Helmidge",
+      "desc": "77 % вискоз, 11 % люрекс, Великобритания,",
+      "sizes": [44, 48],
+      "price": "16650",
+      "sezon": "spring-summer",
+      "image": "v(11).mp4",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Ветровка Franko Vello",
+      "desc": "100 % полиэстер, Италия",
+      "sizes": [48],
+      "price": "16700",
+      "sezon": "spring-summer",
+      "image": "v(10).mp4",
+      "discPrice": ""
+    },
+    {
+      "brand": "Jones",
+      "name": "Джинсы красные ",
+      "desc": "34 % хлопок, 64 % лиазелл, 2 % эластан, Австрия",
+      "sizes": [44],
+      "price": "11400",
+      "sezon": "spring-summer",
+      "image": "v(9).mp4",
+      "discPrice": "6840"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Куртка красная Helmidge",
+      "desc": "65 % хлопок, 100 % полиэстер, Великобритания",
+      "sizes": [44],
+      "price": "11850",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-5a86b6a742374610861a2c0f7840d6ee-V.jpg",
+      "discPrice": "9480"
+    },
+    {
+      "brand": "Betty Barclay",
+      "name": "Куртка Betty Barclay",
+      "desc": "98 % пух, 60 % полиэстер, 40 % п/р,  Германия",
+      "sizes": [44,46],
+      "price": "15900",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-1297e6ef1ae5eaed83e3d4d91fa0a0d1-V.jpg",
+      "discPrice": "10780"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Ветровка Franko Vello",
+      "desc": "100 % нейлон, Италия",
+      "sizes": [52],
+      "price": "12950",
+      "sezon": "spring-summer",
+      "image": "v(7).mp4",
+      "discPrice": "10370"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Куртка Franko Vello",
+      "desc": "90 % пух, 10 % перо, Италия",
+      "sizes": [44, 48, 50 ,52],
+      "price": "19500",
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-29af7b6cd8393722dc16c2f78a0987fd-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Куртка Franko Vello",
+      "desc": "100 % нейлон, Италия",
+      "sizes": [54],
+      "price": "20300",
+      "sezon": "autumn-winter",
+      "image": "v(6).mp4",
+      "discPrice": ""
+    },
+    {
+      "brand": "Ananke",
+      "name": "Жилет Ananke",
+      "desc": "100 % полиэстер, Франция",
+      "sizes": [48],
+      "price": "18900",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-31ddd9bf63ca59162bf00a4aaed17355-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Condra",
+      "name": "Платье Condra",
+      "desc": "100 % полиэстер, Белоруссия",
+      "sizes": [44],
+      "price":8000,
+      "sezon": "spring-summer",
+      "image": "./../IMG-621d8e21e066b36022f93e48b074aaeb-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Джемпер Franko Vello",
+      "desc": "92 % вискоза, 8 % эластан, Италия",
+      "sizes": [44],
+      "price": "8700",
+      "sezon": "spring-summer",
+      "image": "v(5).mp4",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Футболка Franko Vello",
+      "desc": "95 % вискоза, 5 % лайкра, Италия",
+      "sizes": [48,50],
+      "price": "7800",
+      "sezon": "spring-summer",
+      "image": "./../IMG-0fb2a52d270e5fe75441d3ce912c41ac-V.jpg",
+      "discPrice": "5900"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "70 % хлопок, 27 % полиамид, 3 % эластан, Великобритания",
+      "sizes": [56],
+      "price": "9000",
+      "sezon": "spring-summer",
+      "image": "./../IMG-fd746e32f9b8d4533fdf1f7c21686600-V.jpg",
+      "discPrice": "6300"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "95 % вискоза, 5 % эластан, Великобритания",
+      "sizes": [52],
+      "price": "8400",
+      "sezon": "spring-summer",
+      "image": "./../IMG-8c5d4bf1101d678930acdeab0d69c0bf-V.jpg",
+      "discPrice": "5400"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "95 % вискоза, 5 % эластан, Великобритания",
+      "sizes": [46],
+      "price": "9600",
+      "sezon": "spring-summer",
+      "image": "v(3).mp4",
+      "discPrice": "6800"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "50 % хлопок, 50 % модак, 100 % полиэстер, Великобритания",
+      "sizes": [50, 52],
+      "price": "11850",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0030_000.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "50 % хлопок, 100 % полиэстер, Великобритания",
+      "sizes": [54],
+      "price": "11850",
+      "sezon": "autumn-winter",
+      "image": "v.mp4",
+      "discPrice": "8890"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Платье Franko Vello",
+      "desc": "42 % вискоза, 39 % акрил, Италия",
+      "sizes": [50],
+      "price": "12600",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0033_000.jpg",
+      "discPrice": ""
+    },
+
+    {
+      "brand": "Franko Vello",
+      "name": "Джемпер Franko Vello",
+      "desc": "92 % вискоза, Италия",
+      "sizes": [54],
+      "price": "10200",
+      "sezon": "autumn-winter",
+      "image": "v(13).mp4",
+      "discPrice": "8670"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Платье Franko Vello",
+      "desc": "95 % хлопок, 5 % спандекс, Италия",
+      "sizes": [50],
+      "price": "11900",
+      "sezon": "autumn-winter",
+      "image": "./../IMG-04fd29abae574a63f46701e085c9a6b7-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Гюзелла Турция",
+      "name": "Юбка Гюзелла",
+      "desc": "100 % полиэстер, Турция",
+      "sizes": [46],
+      "price": "7100",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0035.JPG",
+      "discPrice": "6390"
+    },
+    {
+      "brand": "Гюзелла Турция",
+      "name": "Юбка Гюзелла",
+      "desc": "100 % полиэстер, Турция",
+      "sizes": [46],
+      "price": "4500",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0037.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Гюзелла Турция",
+      "name": "Юбка Гюзелла",
+      "desc": "100 % полиэстер, Турция",
+      "sizes": [54],
+      "price": 4500,
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0038.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Гюзелла Турция",
+      "name": "Юбка Гюзелла",
+      "desc": "100 % полиэстер, Турция",
+      "sizes": [36,38,42,44],
+      "price": "4970",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0039.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Джемпер Franko Vello",
+      "desc": "42 % вискоза, 38 % акрил, 20 % полиамид, Италия",
+      "sizes": [48],
+      "price": "7900",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0040.JPG",
+      "discPrice": "6500"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Джемпер Franko Vello",
+      "desc": "92 % вискоза, 8 % эластан, Италия",
+      "sizes": [48],
+      "price": "8999",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0041.JPG",
+      "discPrice": "7650"
+    },
+    {
+      "brand": "Jones",
+      "name": "Платье Австрия",
+      "desc": "80 % полиэстер, 10 % эластан, эко-кожа, Австрия",
+      "sizes": [44],
+      "price": "11000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0042.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Condra",
+      "name": "Костюм Condra",
+      "desc": "100 % полиэстер, Белоруссия",
+      "sizes": [46, 48],
+      "price": "13700",
+      "sezon": "autumn-winter",
+      "image": "./../../3Condra_Deluxe-5287-р-46-52.jpg",
+      "discPrice": "8220"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Платье Franko Vello",
+      "desc": "95 % вискоза, 5 % эластан, Италия",
+      "sizes": [44, 46,48,50],
+      "price": "14900",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0047.JPG",
+      "discPrice": "11920"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Костюм Franko Vello",
+      "desc": "100 % полиэстер, Италия",
+      "sizes": [48, 50],
+      "price": "21000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0049.JPG",
+      "discPrice": "16800"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Комбинезон Le Fate",
+      "desc": "100 % вискоза, Италия",
+      "sizes": [44],
+      "price": "12000",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0051.JPG",
+      "discPrice": "8000"
+    },
+    {
+      "brand": "Fuego",
+      "name": "Платье Fuego",
+      "desc": "95 % вискоза, 5 % спандекс, Франция",
+      "sizes": [48, 50],
+      "price": "14000",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0052.JPG",
+      "discPrice": "11200"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Туника с цепью Le Fate",
+      "desc": "100 % вискоза, Италия",
+      "sizes": [44],
+      "price": "18400",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0053.JPG",
+      "discPrice": "14720"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Костюм Franko Vello",
+      "desc": "95 % вискоза, 5 % эластан, Италия",
+      "sizes": [42, 48],
+      "price": "25200",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0056.JPG",
+      "discPrice": "22680"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Костюм Franko Vello",
+      "desc": "89 % вискоза, 8 % эластан, 3 % полиэстер, Италия",
+      "sizes": [42, 46, 48],
+      "price": "16900",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0057.JPG",
+      "discPrice": "15210"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Платье Le Fate",
+      "desc": "95 % вискоза, Италия",
+      "sizes": [46],
+      "price": "22200",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0058.JPG",
+      "discPrice": "18870"
+    },
+    {
+      "brand": "Fuego",
+      "name": "Пиджак Fuego",
+      "desc": "65 % хлопок, 30 % полиэстер, 5 % эластан, Франция",
+      "sizes": [42, 48],
+      "price": "11700",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0059.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Fuego",
+      "name": "Футболка Fuego",
+      "desc": "95 % хлопок, 5 % эластан, Франция",
+      "sizes": [42, 48],
+      "price": "8000",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0060.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Fuego",
+      "name": "Платье Fuego",
+      "desc": "65 % хлопок, 30 % эластан, 5 % полиэстер, Франция",
+      "sizes": [46],
+      "price": "11700",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0061.JPG",
+      "discPrice": "8190"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Платье Franko Vello",
+      "desc": "100 % полиэстер, Италия",
+      "sizes": [44, 50],
+      "price": "14200",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0062.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Ananke",
+      "name": "Ветровка Ananke",
+      "desc": "100 % полиэстер, Франция",
+      "sizes": [48, 50],
+      "price": "18900",
+      "sezon": "spring-summer",
+      "image": "./../../veste-coupe-vent-34-detail-grains-.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Жакет Franko Vello",
+      "desc": "80 % вискоза, 20 % люрикс, Италия",
+      "sizes": [42, 44],
+      "price": "13900",
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-cb9183508b9e84b134fb338f47528eeb-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "dresses unlimited",
+      "name": "Платье Германия",
+      "desc": "94 % полиэстер, 6 % эластан Германия",
+      "sizes": [44],
+      "price": "16600",
+      "sezon": "spring-summer",
+      "image": "IMG-91511729efa79271f18a782b6272f8b1-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Ananke",
+      "name": "Пиджак Ananke",
+      "desc": "65 % хлопок, 30 % полиэстер, 5 % эластан, Франция",
+      "sizes": [42, 50],
+      "price": "14000",
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-f797a9759c9c40c2541614add8143b24-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Ananke",
+      "name": "Брюки Ananke",
+      "desc": "65 % хлопок, 30 % полиэстер, 5 % эластан, Франция",
+      "sizes": [42, 50],
+      "price": "9300",
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-f797a9759c9c40c2541614add8143b24-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Платье Le Fate",
+      "desc": "50 % вискоза, 50 % полиамид, Италия",
+      "sizes": [54, 56],
+      "price": "18600",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-b307bd94548c024ab5cedf39bf2ebdef-V.jpg",
+      "discPrice": "14880"
+    },
+    {
+      "brand": "Ananke",
+      "name": "Платье Ananke",
+      "desc": "95 % хлопок, 5 % эластан, Франция",
+      "sizes": [46, 48],
+      "price": "12100",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-3287424bdda475443ec10d7af9271a04-V.jpg",
+      "discPrice": "11495"
+    },
+    {
+      "brand": "Katerina",
+      "name": "Костюм Katerina",
+      "desc": "60 % вискоза, 37 % полиэстер, 3 % эластан, Лихтенштейн",
+      "sizes": [40, 42, 44],
+      "price": "32500",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-351af276f2f66018ca41a0325d81aa5d-V.jpg",
+      "discPrice": "29250"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Футболка Le Fate",
+      "desc": "96 % хлопок, 4 % эластан, Италия",
+      "sizes": [48],
+      "price": "8200",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-8061c8a1c9509fbea8ce92c12f6bad86-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Футболка Le Fate",
+      "desc": "94 % хлопок, 6 % эластан, Италия",
+      "sizes": [44],
+      "price": "11400",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-cb9ba121609c9f88799f95f9f2628345-V.jpg",
+      "discPrice": "9120"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Платье Le Fate",
+      "desc": "100 % лен, 95 % полиэстер, 5 % эластан, Италия",
+      "sizes": [54],
+      "price": "20400",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-89cee616421732db62e135597eabd027-V.jpg",
+      "discPrice": "14280"
+    },
+    {
+      "brand": "Riani",
+      "name": "Платье Riani",
+      "desc": "100 % хлопок, Германия",
+      "sizes": [46],
+      "price": "18000",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-ebe6664e4d106ff46b71b644975cbf6f-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Джинсы Franko Vello",
+      "desc": "72 % хлопок, 24 % полиэстер, 4 % эластан, Италия",
+      "sizes": [46,48,54],
+      "price": "6900",
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-bc665af511d6ac26b738d508d45c80e6-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Ветровка Franko Vello",
+      "desc": "100 % полиэстер, Италия",
+      "sizes": [42,44,54],
+      "price": "22400",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-a96ed7e24557d95fa1c5bef03b8c6002-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Джинсы Franko Vello",
+      "desc": "65 % хлопок, 30 % полиэстер, 5 % лайкра, Италия",
+      "sizes": [46],
+      "price": "9300",
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-9aaaa1baf37d17495600d1fdad2a534d-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Elisa Fanti",
+      "name": "Платье Elisa Fanti",
+      "desc": "96 % полиэстер, 4 % эластан, Италия",
+      "sizes": [46,48],
+      "price": "30000",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-93564cd7d5f782c37664766847f884c0-V.jpg",
+      "discPrice": "24000"
+    },
+    {
+      "brand": "Elisa Fanti",
+      "name": "Блуза Elisa Fanti",
+      "desc": "100 % шелк, Италия",
+      "sizes": [52],
+      "price": 25000,
+      "sezon": "spring-summer",
+      "image": "./../../IMG-7a9aaf78201b8d6d24547ccf8f8b0f39-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Elisa Fanti",
+      "name": "Платье Elisa Fanti",
+      "desc": "100 % шелк, Италия",
+      "sizes": [44],
+      "price": "43000",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-93fd5baf11490f0345e1e2e0c5302714-V.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Elisa Fanti",
+      "name": "Юбка Elisa Fanti",
+      "desc": "53 % полиэстер, 47 % эластан,стразы Сваровски, кружево, Италия",
+      "sizes": [46],
+      "price": 22000,
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-fa17c05bd37e8e95d4b411b255a31d91-V.jpg",
+      "discPrice": "19800"
+    },
+    {
+      "brand": "Samange",
+      "name": "Шуба Samange",
+      "desc": "70 % полиэстер, 30 % вискоза, Италия",
+      "sizes": [48],
+      "price": "32000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0069.JPG",
+      "discPrice": "28800"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Куртка-пуховик Franko Vello",
+      "desc": "90 % пух, 10 % перо, Италия",
+      "sizes": [44],
+      "price": "26600",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0071.JPG",
+      "discPrice": "23940"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Куртка-пуховик Franko Vello",
+      "desc": "90 % пух, 10 % эластан, Италия",
+      "sizes": [48],
+      "price": "42000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0074.JPG",
+      "discPrice": "38000"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Куртка Le Fate",
+      "desc": "100 % полиэстерн, Италия",
+      "sizes": [48],
+      "price": "25900",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0075.JPG",
+      "discPrice": "24600"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Пуховик Franko Vello",
+      "desc": "90 % пух, 10 % перо, Италия",
+      "sizes": [50],
+      "price": "32000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0076.JPG",
+      "discPrice": "28800"
+    },
+    {
+      "brand": "Samange",
+      "name": "Шуба Samange",
+      "desc": "70 % полиэстер, 30 % вискоза, эко-мех, Италия",
+      "sizes": [54, 56],
+      "price": "32600",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0077.JPG",
+      "discPrice": "23472"
+    },
+    {
+      "brand": "Samange",
+      "name": "Шуба Samange",
+      "desc": "100 % иск. мех, 30 % вискоза, 70 % полиэстер, Италия",
+      "sizes": [42, 46, 50],
+      "price": "27000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0079.JPG",
+      "discPrice": "24300"
+    },
+    {
+      "brand": "Samange",
+      "name": "Куртка-полушубок Samange",
+      "desc": "30 % вискоза, 70 % полиэстер, Италия",
+      "sizes": [48, 52],
+      "price": "19900",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0080.JPG",
+      "discPrice": "17910"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Блуза с топом Franko Vello",
+      "desc": "65 % вискоза, 35 % п.а, Италия",
+      "sizes": [46],
+      "price": "12900",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0081.JPG",
+      "discPrice": "12255"
+    },
+    {
+      "brand": "Jones",
+      "name": "Платье Jones",
+      "desc": "Австрия",
+      "sizes": [44],
+      "price": "9900",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0082.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Katerina",
+      "name": "Платье Katerina",
+      "desc": "80 % хлопок, 15 % полиэстер, 5 % эластан, Лихтенштейн",
+      "sizes": [42],
+      "price": "28400",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0083.JPG",
+      "discPrice": "26412"
+    },
+    {
+      "brand": "Luisa Gerano",
+      "name": "Платье Luisa Gerano",
+      "desc": "92 % вискоза, 8 % эластан, Германия",
+      "sizes": [42],
+      "price": "16000",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0084.JPG",
+      "discPrice": "13600"
+    },
+    {
+      "brand": "Sporttalm",
+      "name": "Юбка Sporttalm",
+      "desc": "61 % хлопок, 37 % вискоза, 2 % эластан, Австрия",
+      "sizes": [44],
+      "price": "9000",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0087.JPG",
+      "discPrice": "8500"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Блуза Helmidge",
+      "desc": "45 % хлопок, 54 % полиэстер, 11 % эластан, Великобритания",
+      "sizes": [46],
+      "price": "5400",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0086.JPG",
+      "discPrice": "4500"
+    },
+    {
+      "brand": "Elisa Fanti",
+      "name": "Туника Elisa Fanti",
+      "desc": "100 % шелк, Италия",
+      "sizes": [50],
+      "price": "13500",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0089.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Dressemin",
+      "name": "Жакет Dressemin",
+      "desc": "97 % хлопок, 3 % эластан, Германия",
+      "sizes": [48],
+      "price": "7481",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0090.JPG",
+      "discPrice": "7000"
+    },
+    {
+      "brand": "Jones",
+      "name": "Блуза Jones",
+      "desc": "100 % вискоза, Австрия",
+      "sizes": [44],
+      "price": "9800",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0092.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "38 % хлопок, 61 % полиэстер, 1 % эластан, Великобритания",
+      "sizes": [44],
+      "price": "13100",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0094.JPG",
+      "discPrice": "10480"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "100 % хлопок, Великобритания",
+      "sizes": [54],
+      "price": "7000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0096.JPG",
+      "discPrice": "6500"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Блуза Helmidge",
+      "desc": "95 % вискоза, 5 % эластан, Великобритания",
+      "sizes": [46],
+      "price": "8500",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0095.JPG",
+      "discPrice": "7650"
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Платье Helmidge",
+      "desc": "80 % вискоза, 15 % полиэстер, 5 % эластан, Великобритания",
+      "sizes": [44],
+      "price": "10000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0097.JPG",
+      "discPrice": "9500"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Юбка Franko Vello",
+      "desc": "92 % вискоза, 8 % эластан",
+      "sizes": [42],
+      "price": "8000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0098.JPG",
+      "discPrice": "6000"
+    },
+    {
+      "brand": "Sporttalm",
+      "name": "Юбка Sporttalm",
+      "desc": "53 % хлопок, 42 % полиамид, 5 % эластан, Австрия",
+      "sizes": [44],
+      "price": "9000",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0100.JPG",
+      "discPrice": "7000"
+    },
+    {
+      "brand": "Sporttalm",
+      "name": "Ветровка Sporttalm",
+      "desc": "58 % хлопок, 29 % полиэстер, 14 % эластан, Австрия",
+      "sizes": [44],
+      "price": "12000",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0101.JPG",
+      "discPrice": "10800"
+    },
+    {
+      "brand": "Leoguy",
+      "name": "Платье Leoguy",
+      "desc": "66 % вискоза, 34 % нейлон, Франция",
+      "sizes": [46],
+      "price": "12600",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0104.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Джемпер Le Fate",
+      "desc": "100 % шерсть, Италия",
+      "sizes": [44,46],
+      "price": "14000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0103.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Джемпер Le Fate",
+      "desc": "100 % шерсть, Италия",
+      "sizes": [48,52],
+      "price": "12000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0102.JPG",
+      "discPrice": "9900"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Джинсы Le Fate",
+      "desc": "97 % хлопок, 3 % эластан, Италия",
+      "sizes": [44],
+      "price": "14900",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0107.JPG",
+      "discPrice": "12665"
+    },
+    {
+      "brand": "Stizzoli",
+      "name": "Пальто Stizzoli",
+      "desc": "65 % шерсть, 15 % мохер, 10 % полиэстер, 10 % полиамид, Италия",
+      "sizes": [46],
+      "price": "38000",
+      "sezon": "autumn-winter",
+      "image": "./../../SAM_0110.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Helmidge",
+      "name": "Костюм Helmidge",
+      "desc": "74 % полиэстер, 23 % хлопок, 3 % эластан, Великобритания",
+      "sizes": [50],
+      "price": "12100",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0109.JPG",
+      "discPrice": "9680"
+    },
+    {
+      "brand": "Luisa Gerano",
+      "name": "Топ Luisa Gerano",
+      "desc": "97 % хлопок, 3 % полиэстер, 100 % шелк, Германия",
+      "sizes": [44],
+      "price": "6750",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0111.JPG",
+      "discPrice": "5740"
+    },
+    {
+      "brand": "Luisa Gerano",
+      "name": "Жакет Luisa Gerano",
+      "desc": "97 % хлопок, 3 % полиэстер, 100 % шелк, Германия",
+      "sizes": [44],
+      "price": "12750",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0111.JPG",
+      "discPrice": "10840"
+    },
+    {
+      "brand": "Наивер",
+      "name": "Юбка Наивер",
+      "desc": "95 % полиамид, 5 % эластан, Германия",
+      "sizes": [50],
+      "price": "9380",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-928d1bf0968e2669a765d2f8573ce8ab-V.jpg",
+      "discPrice": "8700"
+    },
+    {
+      "brand": "Elisa Fanti",
+      "name": "Платье Elisa Fanti",
+      "desc": "95 % полиэстер, 5 % эластан, подкладка 65 % ацетат, 35 % полиэстер, Италия",
+      "sizes": [42],
+      "price": "18000",
+      "sezon": "spring-summer",
+      "image": "./../../IMG-9f081fc3da9cba958370280c5f4f67e8-V.jpg",
+      "discPrice": "16000"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Куртка Le Fate",
+      "desc": "100 % полиэстерн, Италия",
+      "sizes": [46,48],
+      "price": "16200",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0116.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Куртка Le Fate",
+      "desc": "100 % полиэстерн, Италия",
+      "sizes": [46,48],
+      "price": "16200",
+      "sezon": "spring-summer",
+      "image": "./../../SAM_0118.JPG",
+      "discPrice": ""
+    },
+    {
+      "brand": "Samange",
+      "name": "Шуба Samange",
+      "desc": "30 % вискоза, 70 % полиэстер, Италия",
+      "sizes": [46,50],
+      "price": "29600",
+      "sezon": "autumn-winter",
+      "image": "",
+      "discPrice": "26640"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Платье Le Fate",
+      "desc": "100 % вискоза, Италия",
+      "sizes": [48],
+      "price": "16600",
+      "sezon": "spring-summer",
+      "image": "./../../ABITO-85-A.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Ветровка Le Fate",
+      "desc": "100 % полиэстер, Италия",
+      "sizes": [50, 52, 54, 56],
+      "price": "16400",
+      "sezon": "spring-summer",
+      "image": "./../../veste-coupe-vent-34-detail-grains-.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Ananke",
+      "name": "Платье Ananke",
+      "desc": "95 % вискоза, 5 % спандекс, 100 % полиэстер, Франция",
+      "sizes": [56],
+      "price": "14000",
+      "sezon": "spring-summer",
+      "image": "./../../robe-manches-longues-safari-.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Юбка Le Fate",
+      "desc": "65 % вискоза, 32 % полиамид, 3 % эластан, Италия",
+      "sizes": [46,48],
+      "price": "16500",
+      "sezon": "spring-summer",
+      "image": "./../../T-SHIRT-100-B-GONNA-102-GN-ABITO-99-A.jpg",
+      "discPrice": "14850"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Платье Le Fate",
+      "desc": "100 % лайоселл, Италия",
+      "sizes": [46, 48, 50],
+      "price": "21700",
+      "sezon": "spring-summer",
+      "image": "./../../ABITO-143-A.jpg",
+      "discPrice": "19530"
+    },
+    {
+      "brand": "Ananke",
+      "name": "Комбинезон Ananke",
+      "desc": "82 % вискоза, 15 % полиамид, 3 % эластан, Франция",
+      "sizes": [46],
+      "price": 15200,
+      "sezon": "spring-summer",
+      "image": "./../../hCjua1sLmP0.jpg",
+      "discPrice": "11400"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Костюм Le Fate",
+      "desc": "100 % хлопок, Италия",
+      "sizes": [44],
+      "price": 26400,
+      "sezon": "spring-summer",
+      "image": "./../../56242972_2132506830374215_6116123332057810904_n.jpg",
+      "discPrice": "18480"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Джемпер Franko Vello",
+      "desc": "100 % шерсть, Италия",
+      "sizes": [44],
+      "price": 17600,
+      "sezon": "autumn-winter",
+      "image": "./../../69873924_757768728009341_4157879140247757374_n.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Платье Franko Vello",
+      "desc": "40 % шерсть, 30 % вискоза, 20 % полиамид, Италия",
+      "sizes": [44, 46],
+      "price": 16400,
+      "sezon": "autumn-winter",
+      "image": "./../../71189066_742889416162875_894689181303649924_n.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Платье Le Fate",
+      "desc": "100 % вискоза, Италия",
+      "sizes": [44],
+      "price": 19000,
+      "sezon": "spring-summer",
+      "image": "./../../74666965_162438404857247_6032939704563813153_n.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Джемпер Franko Vello",
+      "desc": "95 % вискоза, 5 % эластан, Италия",
+      "sizes": [52, 54, 56],
+      "price": "7900",
+      "sezon": "autumn-winter",
+      "image": "",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Куртка двусторонняя Franko Vello",
+      "desc": "100 % нейлон, наполнитель пух, Италия",
+      "sizes": [52, 54],
+      "price": 25000,
+      "sezon": "autumn-winter",
+      "image": "./../../56532481_2095611680554654_7753817017832196956_n.jpg",
+      "discPrice": "17300"
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Пальто Franko Vello",
+      "desc": "100 % полиэстер, воротник натуральный песец, Италия",
+      "sizes": [52, 54],
+      "price": 24000,
+      "sezon": "autumn-winter",
+      "image": "./../../1209_9.jpg",
+      "discPrice": ""
+    },
+    {
+      "brand": "Franko Vello",
+      "name": "Пуховик Franko Vello",
+      "desc": "100 % полиэстер, 90 % пух, 10 % перо, воротник кролик/рекс, Италия",
+      "sizes": [52, 54],
+      "price": "42000",
+      "sezon": "autumn-winter",
+      "image": "./../../1179_8j3a5754.jpg",
+      "discPrice": "38000"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Блуза Le Fate",
+      "desc": "96 % хлопок, 4 % эластан",
+      "sizes": [44],
+      "price": "8200",
+      "sezon": "spring-summer",
+      "image": "./../../59437730_2346777042219999_2379457424951381470_n.jpg",
+      "discPrice": "7790"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Юбка Le Fate",
+      "desc":  "65 % вискоза, 32 % полиастан, 3 % эластан",
+      "sizes": [44, 46],
+      "price": "14700",
+      "sezon": "spring-summer",
+      "image": "./../../59437730_2346777042219999_2379457424951381470_n.jpg",
+      "discPrice": "13230"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Курта шуба двусторонняя Le Fate",
+      "desc": "26 % шерсть, 80 % модаакрил, Италия",
+      "sizes": [44, 46, 48],
+      "price": "26900",
+      "sezon": "autumn-winter",
+      "image": "./../../69776496_2376814809071202_7139099993699032193_n.jpg",
+      "discPrice": "21520"
+    },
+    {
+      "brand": "Le Fate",
+      "name": "Платье Le Fate",
+      "desc": "100 % тенсель, Италия",
+      "sizes": [46, 48],
+      "price": "23300",
+      "sezon": "autumn-winter",
+      "image": "./../../IMG-637bcfa47767cf9535ae90102d1a3fc2-V.jpg",
+      "discPrice": "22135"
+    }
+  ]
+}
